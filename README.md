@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- My favorite programming languages are JavaScript and Python. 
+- Big fan of [VueJS](https://vuejs.org/)
+- Occasional runner 🏃‍♂️ and basketball player 🏀
+
+
 <!--
 **valerijmedvid/valerijmedvid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
