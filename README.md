@@ -4,6 +4,10 @@
 - Big fan of [VueJS](https://vuejs.org/)
 - Occasional runner 🏃‍♂️ and basketball player 🏀
 
+<!-- <p align="center">
+  <img src="https://github.com/demartini/demartini/blob/master/code.gif">
+</p> -->
+
 ---
 
 <div align="center">
